@@ -1,16 +1,27 @@
-## Hi there 👋
+  Merhaba! Ben Sıla 🙋‍♀️
+Sakarya Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yazılım geliştirme, yapay zeka ve sistem analizi konularında büyük bir tutkum var. Aynı zamanda bir ekip oyuncusuyum ve sürekli öğrenmeye açım. Kodla üretmek, problem çözmek ve yazılımın gücüyle dünyayı güzelleştirmek bana iyi geliyor. ✨
 
-<!--
-**sllayy/sllayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Şu anda ilgilendiğim alanlar:
 
-Here are some ideas to get you started:
+  🔗 Web Geliştirme (ASP.NET Core, MVC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🤖 Yapay Zeka & Makine Öğrenmesi
+
+  🔎 Süreç - Veri Madenciliği (Process Mining)
+
+  🛰️ Sistem Programlama & Simülasyon Projeleri
+
+  🧠 Algoritma & Veri Yapıları
+
+
+
+
+🚀 Projelerimden Bazıları:
+
+ 💇‍♀️ Güzellik Salonu Randevu Sistemi	MVC yapısında PostgreSQL veritabanı destekli, admin/üye ayrımı olan bir rezervasyon platformu. Yapay zeka ile resim işleme entegre edilecek.
+
+ 🪴 PlantTracker - IoT Projesi	Blynk + NodeMCU ile çalışan, sıcaklık/nem/yağmur sensörleriyle bitki bakım sistemini otomatik yöneten IoT uygulaması.
+
+ 🛸 Uzay Simülasyonu (Java)	OOP ilkeleriyle geliştirilen, gezegenler arası yolculukları simüle eden dosya tabanlı bir sistem.
+
+ 🎬 Sinema Salonu Form Uygulaması** | C# ile Windows Forms üzerinde geliştirilen, film arama, listeleme, bilet alma gibi işlevlere sahip, PostgreSQL veritabanı destekli masaüstü uygulama. |
