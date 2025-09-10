@@ -1,5 +1,5 @@
   Merhaba! Ben Sıla 🙋‍♀️
-Sakarya Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yazılım geliştirme, yapay zeka ve sistem analizi konularında büyük bir tutkum var. Aynı zamanda bir ekip oyuncusuyum ve sürekli öğrenmeye açım. Kodla üretmek, problem çözmek ve yazılımın gücüyle dünyayı güzelleştirmek bana iyi geliyor. ✨
+Sakarya Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yazılım geliştirme, yapay zeka ve sistem analizi konularında büyük bir tutkum var. Aynı zamanda bir ekip oyuncusuyum ve sürekli öğrenmeye açım. Kodla üretmek, problem çözmek ve yazılımın gücüyle dünyayı güzelleştirmek bana iyi geliyor. ✨
 
 🔍 Şu anda ilgilendiğim alanlar:
 
