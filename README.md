@@ -3,11 +3,11 @@ Sakarya Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yazı
 
 🔍 Şu anda ilgilendiğim alanlar:
 
-  🔗 Web Geliştirme (ASP.NET Core, MVC)
-
   🤖 Yapay Zeka & Makine Öğrenmesi
 
   🔎 Süreç - Veri Madenciliği (Process Mining)
+
+  🔗 Web Geliştirme (ASP.NET Core, MVC)
 
   🛰️ Sistem Programlama & Simülasyon Projeleri
 
